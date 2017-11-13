@@ -296,3 +296,5 @@ def fix_machine(debris, product): #takes str product & checks to see if all char
  It is very common for students to feel like they understand solutions after they see them, but not be able to solve problems on your own. You shouldn't be dismayed or frustrated if that's the case! It takes time and practice to get good at solving programming problems yourself, but as you improve you will find it a rewarding and enjoyable activity.
 
 Learning to program is a challenging skill that involves very different types of thinking than most people are used to. I hope this lesson will give you some helpful strategies for how to go about solving problems yourself, especially as you face more complex problems like the example one here (which was contributed by a CS101 student in the forums).
+
+I need to get back to this!
